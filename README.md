@@ -1,6 +1,7 @@
 # Crypto-App
 
-** FEAUTURES **
+**FEATURES**
+
 - SwiftUI
 - Design pattern: MVVM
 - 7/24 Live Tracking
